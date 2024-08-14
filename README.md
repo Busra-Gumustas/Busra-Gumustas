@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/büşra gümüştaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="büşra gümüştaş" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/büşra gümüştaş](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-g%C3%BCm%C3%BC%C5%9Fta%C5%9F-11493225a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="büşra gümüştaş" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
