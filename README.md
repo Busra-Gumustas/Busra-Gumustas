@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Büşra</h1>
-<h3 align="center">A passionate AIdeveloper from Türkiye</h3>
+<h3 align="center">I'm student in college.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
